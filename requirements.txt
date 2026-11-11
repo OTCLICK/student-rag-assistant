@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+pymupdf
+python-dotenv
+langgraph
+langchain-gigachat
+python-dotenv
